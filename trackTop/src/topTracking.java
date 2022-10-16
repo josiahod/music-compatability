@@ -1,4 +1,4 @@
-	import java.util.Collection;
+import java.util.Collection;
 import java.util.Scanner;
 
 import de.umass.lastfm.*;
